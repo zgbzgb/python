@@ -1,2 +1,2 @@
 # python
-## python 记录
+python 记录
