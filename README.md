@@ -1,4 +1,7 @@
-# chapter_1_python基础
+## chapter_1 python基础
 
+## chapter_2 控制流
 
-# chapter_2_控制流
+## chapter_3 函数
+
+## chapter_4 列表
