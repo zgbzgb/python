@@ -7,3 +7,5 @@
 ## chapter4 列表
 
 ## chapter5 字典和结构化数据
+
+## chapter6 字符串操作
